@@ -15,7 +15,7 @@ A Python-based budgeting application that allows users to:
 
 1. Make sure Python 3 is installed.
 2. Clone the repository:
-   git clone https://github.com/yourusername/budget-app.git
+   git clone https://github.com/kunal15M/budget-app.git
 3. Navigate into the project folder:
    cd budget-app
 4. Run the application:
